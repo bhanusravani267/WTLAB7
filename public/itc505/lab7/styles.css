@@ -1,0 +1,96 @@
+/* Reset some default styles */
+body, h1, p, form {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set a dark background for the body */
+body {
+  background-color: #1a1a1a;
+  font-family: 'Creepster', cursive; /* Change the font to Creepster */
+  color: #fff; /* Set text color to white */
+}
+
+/* Style the header with a blood-red color */
+header {
+  background-color: #8b0000; /* Dark red */
+  color: #fff;
+  text-align: center;
+  padding: 1em;
+}
+
+#story {
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border: 1px solid #302727;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(126, 118, 118, 0.1);
+}
+
+
+/* Style the form container with a dark background and red border */
+form {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #333; /* Dark background color */
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  border: 2px solid #8b0000; /* Dark red border */
+}
+
+/* Style form labels with a spooky green color */
+.labname {
+  font-weight: bold;
+  color: #00ff00; /* Green */
+}
+
+/* Style form inputs with a dark background and lighter text color */
+.inpname {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border: 1px solid #666; /* Dark border */
+  border-radius: 5px;
+  background-color: #444; /* Dark background color */
+  color: #eee; /* Light text color */
+}
+
+/* Style the submit button with a blood-red color */
+.submitbutton {
+  background-color: #8b0000;
+  color: #fff;
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Hover effect for the submit button */
+.submitbutton:hover {
+  background-color: #5a0000; /* Darker red on hover */
+}
+
+/* Style the footer with a dark background and green text */
+footer {
+  background-color: #333;
+  color: #00ff00; /* Green */
+  text-align: center;
+  padding: 1em;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Add some spacing to the footer text */
+footer p {
+  margin: 0;
+}

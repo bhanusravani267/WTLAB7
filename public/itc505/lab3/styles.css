@@ -1,0 +1,128 @@
+/* Resetting some default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Setting a background color and default font styles */
+body {
+  background-color: #c4bcbc;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 25px;
+}
+
+.author {
+  font-style: italic;
+  font-weight: bold;
+  padding-top: 10px;
+  font-size: 1.5em;
+  padding: 1px;
+  border: 1px solid #82a65b;
+  border-radius: 3px;
+}
+
+/* Styling headings */
+.title {
+  padding-top: 15px;
+  text-align: center;
+  font-size: 2.0em;
+  margin-bottom: 20px;
+  color: #a83b80; /* Blue color for titles */
+  font-family: 'Times New Roman', Times, serif;
+  border: none;
+}
+
+.section-title {
+  font-size: 1.5em;
+  margin-top: 20px;
+  color: #412d75; /* Orange color for subtitles */
+  font-family: 'Courier New', Courier, monospace; 
+}
+.sub-section-title {
+  font-size: 1.3em;
+  margin-top: 15px;
+  color: #427f7c; /* Orange color for subtitles */
+  font-family: 'Georgia', serif; 
+}
+
+.centered-image {
+  display: block;
+  margin: 0 auto; /* Center horizontally using margin */
+  max-width: 100%; /* Ensures the image doesn't exceed its natural size */
+  height: auto; /* Maintains aspect ratio */
+}
+
+.h4-header {
+  text-align: center;
+  margin-top: 15px; /* Adjust as needed */
+  font-family: 'Arial', sans-serif; /* Change font family as needed */
+  color: #333; /* Change text color as needed */
+  padding-bottom: 10px;
+}
+
+/* Styling paragraphs */
+.paragraph {
+  font-size: 1em;
+  line-height: 1.6;
+  margin-bottom: 15px;
+  border: none;
+}
+
+.article {
+  margin-bottom: 40px;
+  border: none;
+}
+
+/* Adding some padding and border to paragraphs inside articles */
+.article p {
+  padding: 3px;
+  border: 1px solid #82a65b;
+  border-radius: 5px;
+}
+
+/* Styling links */
+.link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+/* Styling unordered list */
+ul {
+  list-style-type: disc;
+  margin-bottom: 20px;
+}
+
+/* Styling list items */
+ul li {
+  font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 10px;
+  font-style: italic;
+}
+
+/* Centering the content and setting max width */
+main {
+  margin: 20px auto;
+  max-width: 800px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+/* Styling links */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Do Something!</title>
+    <meta charset="UTF-8">
+    <link href="styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <img id="logo" src="./rps.jpg" alt="Game Logo">
+      <h1 id="h1">ROCK-PAPER-SCISSOR</h1>
+      <button id="topRightButton" onclick="showWelcomeMessage()">Click me</button>
+    </header>
+    <div class="mainparts">
+      <aside>
+          <nav>
+              <ul>
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">About</a></li>
+                  <li><a href="#">Contact Us</a></li>
+              </ul>
+          </nav>
+      </aside>
+      <main>
+        <!-- Rock, Paper, Scissors game code -->
+        <h1>Rock, Paper, Scissors Game</h1>
+        <p id="output">Make your choice: Rock, Paper, or Scissors</p>
+        <div class="button-container">
+        <button onclick="makeChoice('rock')">Rock</button>
+        <button onclick="makeChoice('paper')">Paper</button>
+        <button onclick="makeChoice('scissors')">Scissors</button>
+        </div>
+    </main>
+    <aside class="advertisement">
+      <!-- Advertisement -->
+      <a href = "https://www.amazon.com/Rock-Paper-Scissors-A-Novel/dp/B08ST3T35N/ref=sr_1_1?crid=1RZQPGITADHBU&keywords=rock+paper+scissors+book&qid=1699663618&sprefix=rock+paper%2Caps%2C172&sr=8-1">
+      <img id="advertisement img" src="./adv1.jpg" alt="Advertisement"></a>
+  </aside>
+  <script type="text/javascript" src="./script.js"></script>
+  </div>
+    <footer>
+      <h3>ADDENDUM</h3>
+      <marquee behavior="slide" direction="up" scrollamount="5">
+        <p>
+          <br>Created a Title named as "Do Something" as the page title.
+          <br>Image is added using img tag as a logo at the left corner of the page.
+          <br>Used h1 tag for heading in High format.
+          <br>Used button at the right top corner of my web page to show welcome page.
+          <br>Used aside tag for navigation at the left side of web page with Home, About and Contact Us.
+          <br>Used main tag for the main content which shows the game and user can play in the area.
+          <br>There are three buttons for the game which are Rock, Paper and Scissors.
+          <br>Added a picture and a link for advertisement when the user clicks on the picture, it redirects to the web page of the advertisement.
+        </p>
+      </marquee>
+    </footer>
+  </body>
+</html>

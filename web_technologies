@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework 2 - Paper Conversion</title>
+   
+</head>
+<body>
+    <article>
+        <h1>UNDERSTANDING ADVANCES IN WEB TECHNOLOGIES: EVOLUTION FROM WEB 2.0 TO WEB 3.0</h1>
+        <p>Dwivedi, Yogesh K., School of Business and Economics, Swansea University, Swansea, UK, ykdwivedi@gmail.com
+            Williams, Michael D., School of Business and Economics, Swansea University, Swansea, UK, m.d.williams@swansea.ac.uk
+        </p>
+        <h2>Abstract</h2>
+        <p>The current generation of Web applications (Web 2.0) have made them an outright phenomenon in today’s society helping 
+            to redefine the way organisations and individuals communicate and collaborate with each other. 
+            The purpose of this paper is to conceptualise the evolution of Web technologies from a user perspective.
+            Based on inference from existing studies, this paper attempts to identify the architectural direction that the next generation (Web 3.0)
+            of Web applications would meld itself into. The paper emphasizes limitations of current Web technologies and how future trends may address
+            these limitations by focusing on migration that has been witnessed in the scope of the applications presented and features delivered 
+            on the Web from a users’ perspective.</p>
+        <h2>1. Introduction</h2>
+        <p>From being deployed as a mere group work tool to assist scientists at CERN,
+            to being a global information space with more than a billion users, the World Wide Web has exponentially grown in the past 15 years (Anderson, 2007). 
+            Through its life cycle, the World Wide Web has been through various phases of development. On the back of widespread acceptance and elevated 
+            growth seen by Web 1.0, Web 2.0 emerged to incorporate new online activities, many of which could not have been previously achieved (Boulos & Wheeler, 2007).
+            Going by the trend of constant evolution, the Web is now slowly but surely transiting to more data centric phase in the 
+            context of Web version 3.0 (Motta & Sabou, 2006).</p>
+        <p>Due to its evolutionary nature Web technology has seen a large explosion of new ideas, applications and start-up companies working towards 
+            extending and generating new services to add leverage to existing services (Anderson, 2007). In the evolution of the World Wide Web, 
+            Web 3.0 is considered to be the next frontier in Web technology which beholds the potential of intelligent information and semantic web. 
+            A steady migration towards this new version of the Web could be noticed with instances like coding geocodes on pictures and ability to keep 
+            information on an annotation platform with photos in Flickr. Such developments would enable other viewers to see photos from a geographical context, 
+            say for instance in a map. One could just click on Fisher-man‟s Wharf in Google Maps and obtain pictures that others have downloaded in Flickr
+            (Sankar & Bouchard, 2009). Web searches are another example to elaborate implications of advantage of the Semantic web. This is where Web 3.0 
+            artefacts such as the semantic search and its different methods of navigation through the massive data present on the internet would come under 
+            focus. On the whole, Web 3.0 promises to enhance data mining with improved search capability, bigger distributed database, intelligent and 
+            smart search options across multimedia, improved connectivity between applications and more mobility capabilities (Sankar & Bouchard, 2009).</p>
+        <p>This paper therefore would attempt to first delineate Web 2.0 from any arbitrary technologies by identifying evolutionary features and applications 
+            that make up Web 2.0 as how we see it today. Second after developing a broader appreciation of the composition of Web 2.0 from a users‟ perspective, 
+            the paper would attempt to build a user centric view of the composition of features that would be expected to be incorporated in future generations of
+            Web technology. In sum, the paper presents a holistic view of the World Wide Web.</p>
+        <h2>2. Understanding Web 2.0</h2>
+        <p>Over the recent past, the Web has been transformed from being a medium in which information is transmitted and consumed, to a platform where content
+            is created, shared, altered and reproduced (Downes, 2005 cited in Chatti et al., 2008). At the same time differentiation between Web 1.0 and Web 2.0 
+            is not clearly defined. Indeed Sir Tim Berners-Lee, creator of the World Wide Web, has suggested that there is no real difference between the two, 
+            as some of the elements of Web 2.0 were fundamental parts of Web 1.0 (Myhill et al., 2009).</p>
+        <p>The term „Web 2.0‟ peaked in popularity during the early part of 2007 and was believed to have enormous potential in its features. 
+            The concept of „the social web‟ proposed initially by O‟Reilly (2005) has had controversial definitions which were woolly and its validity 
+            as a discrete development in the realm of information management has also been questioned. However murky the definition of Web 2.0 may be, 
+            its underlying features emphasize flexibility of access, interaction, mobility, multimedia capability, participation, informality and feedback 
+            (Abbott, 2010). Though frequently these terms are associated with Web 2.0, the technical developments are not its essence 
+            (O‟Reilly, 2006 cited in Harrison & Barthel, 2009). Web 2.0 is instead a label coined by Tim O‟Reilly (2005) and associates to reference 
+            the transition of the World Wide Web to a new phase of use and service development (Harrison & Barthel, 2009). Table 1 is used to elaborate on 
+            the understanding of Web 2.0 achieved through varied definitions prompted by different authors.</p>
+        <h2>2.1 Framework of Web 2.0</h2>
+        <p>Sharing tacit knowledge is a major challenge facing knowledge economies of today‟s era (Richards,
+            2009). Some part of what we “know” could be expressed, documented, structured and stored in
+            repositories such as books, database and knowledge base. In the past, the focus of computer systems
+            was on managing data, information and explicit type knowledge was found in expert systems. Of late,
+            techniques have emerged for acquiring more implicit knowledge using social software such as Wikis,
+            online Communities of Practice (CoP), Weblogs and many others which „helps to realize the original
+            vision of the Web as a space where anyone can participate‟ (Schaffert et al., 2005 quoted in Richards,
+            2009). The emergence of these behaviours indicates a trend towards which the World Wide Web is
+            constellating in, broadly known as Web 2.0. This generation of the Web indulges in a creative use by
+            individuals of the existing internet based technologies embedded with information sharing and
+            collaboration (Richards, 2009).
+        </p>
+        <p>Like many important concepts, Web 2.0 does not have a definite boundary that distinguishes it from
+            other technologies, but rather is bound by a gravitational core. It could be considered that Web 2.0 as a
+            set of principles and practices that branch together a veritable solar system of sites that incorporate and
+            demonstrate some or all those features, at varying level from the core (O'Reilly, 2005). The basic
+            ethos of Web 2.0 encourages individuals‟ freedom to create, annotate, and comment upon, index or
+            share web content- trends which contradict or bypass traditional models of editorial control,
+            centralized publishing and professional indexing (Abbott, 2010). Table 2 illustrates the architectural
+            framework of Web 2.0. This would help create an in-depth understanding on the - versatility that the
+            Web 2.0 carries in its applications.
+        </p>
+        <h2>2.2 Adoption of Web 2.0 Applications</h2>
+        <p>Even though most of the early studies and discussions were directed around the meaning of Web 2.0
+            and its applications, on a wider spectrum, Web 2.0 may be defined using features that it incorporates.
+            These features that it is integrated with, could be looked at from a technology point of view or based
+            on the social impact it creates (Linh, 2008). When Web users need to choose an application, there are
+            several factors that a Web user usually keeps in mind, some of those would be: simplicity of
+            navigation, financial cost, existence of real social network and their interaction with the site,
+            compatibility with people who are also actively engaged in participating in the site, the site‟s visual
+            appearance, the amount of user options and privacy protection features. Also it becomes vitally
+            important to assess the site‟s offerings with regard to quality and quantity of available applications.
+            These include privacy settings, the possibility to generate and manage content and the degree of
+            aptitude of the programmers (Isaías et al., 2009). There are a number of Web services or applications
+            (for example, User reviews/Evaluation, Wiki, Blog, Content Sharing, Open source software adage,
+            P2P/free download, RSS, Mashups, Podcast, Tag Clouds, Social bookmarking, Wikinomics) that are
+            considered to be key concepts in Web 2.0 that represent the core fundamental blueprint of Web 2.0
+            applications and how it functions.</p>
+        <h2>2.4 Shortfalls and Barriers of Web 2.0 Technology</h2>
+        <h3>2.4.1 Shortcoming of Web 2.0 Technologies </h3>
+        <p>With the emergence of any new technology comes the transition from research work to actual practical
+            use and from standards to deployment, all of which impose a time delay. This migration period can
+            sometimes be quite long, as shortfalls in technology creep in which are further compounded by
+            changing expectations of people. Application developers and manufacturers are reluctant to implement
+            products until they see a market forming, but the market does not form by itself until there are enough
+            applications at its disposal. The lag therefore typically depends on how soon vendors hear the demand
+            from users and can get the prototype applications across to them (Hendler, 2008) and may result in the
+            shortcoming of the technology itself. The major drawbacks that Web 2.0 has seen over the course of
+            time are: Applications developed focusing human comfort making data confusing (Isaías et al., 2009;
+            Morato et al., 2008); lack of intelligent Web servers to avoid bottle necks (Blum et al., 2008; Bojars et
+            al., 2008); no appropriate support for RIA UI design (Preciado, 2005 cited in Preciado et al., 2008),
+            lack of central authority (Morato et al., 2008; Hsieh et al., 2008); security and privacy challenges
+            (Tahamtan et al., 2010), offer Poor query possibilities - lack of generic data representation (Bojars et
+            al., 2008), and overload of scattered information with uncertain quality has long been perceived as
+            major problem (Abbott, 2010)</p>
+        <h3>2.5.2 Barriers to the Current Web 2.0 Technologies        </h3>
+        <p>Sometimes even if the new technology meets expectations of the population at large, there are
+            probabilities that these technologies may face hurdles from external environment which may limit the
+            technology in presenting results which might not be at its optimum and hinder performance of the
+            technology as a whole. It is these scenarios which often become a barrier for the technology requiring
+            constant research and development effort to overcome them. The prominent barriers that Web 2.0 has
+            been faced with currently are (1) Constant iteration cycle of Change and Updates to services
+            (Anderson, 2007); (2) Ethical issues concerning build and usage of Web 2.0 (Anderson, 2007); (3)
+            Most Web 2.0 services established in the precepts of "free economy" and free community (Isaías et al.,
+            2009); (4) Transient technological or social fashions (Abbott, 2010); (5) Interconnectivity and
+            knowledge sharing between platforms across community boundaries are still limited (Abel et al., 2007;
+            Chan et al., 2009); (6) Since Web is an open medium, there has long been a question over the
+            credibility of the websites and the information it holds (Adams, 2010); and (7) The challenge facing
+            the web is to make sure that all web developers and web designers follow accessibility guidelines in
+            providing descriptions that optimize access to all web users especially the one with disabilities
+            (Remenyi , 2008).</p>
+        <h2>References</h2>
+        <p>Abbott, R. (2010). Delivering quality-evaluated healthcare information in the era of Web 2.0: design
+            implications for Intute: Health and Life Sciences. Health Informatics Journal, 16 (1), 5–14.
+            Abel, F., Frank, M., Henze, N., Krause, D., Plappert, D., & Siehndel, P. (2007). GroupMe! - Where
+            Semantic Web meets Web 2.0.
+            Aharony, N. (2009). The influence of LIS students' personality characteristics on their perceptions
+            towards Web 2.0 use. Journal of Librarianship and Information Science, 41 (4), 227–242.</p>
+    </article>
+
+    <article>
+        <h1>Addendum</h1>
+        <p>h1 tag is included to mention the text as header.</p>
+        <p>Included h2 and h3 header tags for sub title.</p>
+        <p>p tag is to write the data in paragraph with small font and article tag is to show the content. </p>
+    </article>
+</body>
+</html>
